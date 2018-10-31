@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Simple weather</string>
+
+    <string name="btn_name_continue">continue</string>
+    <string name="pre_request_for_permission_request">To show an accurate forecast, we need to know where you are</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="navigation_title">Places</string>
+    <string name="current_location_title">Current location</string>
+    <string name="nameless_location">Nameless</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="now">now</string>
+    <string name="m_sec">%s m/sec,</string>
+    <string name="north">N</string>
+    <string name="north_east">NE</string>
+    <string name="east">E</string>
+    <string name="south_east">SE</string>
+    <string name="south">S</string>
+    <string name="south_west">SW</string>
+    <string name="west">W</string>
+    <string name="north_west">NW</string>
+    <string name="pressure_mm_hg">%s mm Hg</string>
+    <string name="pressure_hectopascal">%s hPa</string>
+    <string name="ten_day_forecast_title">10 days forecast</string>
+    <string name="temperature_title">Temperature</string>
+    <string name="morning_title">Morning</string>
+    <string name="day_title">Day</string>
+    <string name="evening_title">Evening</string>
+    <string name="night_title">Night</string>
+    <string name="wind_title">Wind</string>
+    <string name="precipitation_title">Precipitation</string>
+    <string name="without_precipitation">Without precipitation</string>
+    <string name="pressure_title">Pressure</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="millimeters_of_precipitation">%s mm</string>
+    <string name="wait_text">Please, wait</string>
+    <string name="network_error">Oops, there is no connection!</string>
+    <string name="general_error">Oops, something is wrong. Try it later.</string>
+    <string name="setting_menu_item">Settings</string>
+    <string name="celsius">&#x2103;</string>
+    <string name="kelvin">°K</string>
+    <string name="units_title">Units</string>
+    <string name="pressure_mm_hg_toggle_name">mm Hg</string>
+    <string name="pressure_hectopascal_toggle_name">hPa</string>
+    <string name="about_application">About application</string>
+    <string name="version_app_and_version_build">Version %s Build %s</string>
+    <string name="description_meteodata_source">Weather data obtained from <a href="https://openweathermap.org/api">OpenWeatherMap</a>.</string>
+</resources>

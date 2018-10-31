@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Просто погода</string>
+
+    <string name="btn_name_continue">продолжить</string>
+    <string name="pre_request_for_permission_request">Чтобы показывать точный прогноз, нужно знать где вы находитесь</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="navigation_title">Места</string>
+    <string name="current_location_title">Текущее местоположение</string>
+    <string name="nameless_location">Неизвестный</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="now">сейчас</string>
+    <string name="m_sec">%s м/с,</string>
+    <string name="north">С</string>
+    <string name="north_east">СВ</string>
+    <string name="east">В</string>
+    <string name="south_east">ЮВ</string>
+    <string name="south">Ю</string>
+    <string name="south_west">ЮЗ</string>
+    <string name="west">З</string>
+    <string name="north_west">СЗ</string>
+    <string name="pressure_mm_hg">%s мм рт.ст.</string>
+    <string name="pressure_hectopascal">%s гПа</string>
+    <string name="ten_day_forecast_title">Прогноз на 10 дней</string>
+    <string name="temperature_title">Температура</string>
+    <string name="morning_title">Утром</string>
+    <string name="day_title">Днем</string>
+    <string name="evening_title">Вечером</string>
+    <string name="night_title">Ночью</string>
+    <string name="wind_title">Ветер</string>
+    <string name="precipitation_title">Осадки</string>
+    <string name="without_precipitation">Без осадков</string>
+    <string name="pressure_title">Давление</string>
+    <string name="humidity_title">Влажность</string>
+    <string name="millimeters_of_precipitation">%s мм</string>
+    <string name="wait_text">Пожалуйста, подождите</string>
+    <string name="network_error">Упс, интернет не работает!</string>
+    <string name="general_error">Упс, что-то пошло не так. Попробуйте позже.</string>
+    <string name="setting_menu_item">Настройки</string>
+    <string name="celsius">&#x2103;</string>
+    <string name="kelvin">°K</string>
+    <string name="units_title">Единицы измерения</string>
+    <string name="pressure_mm_hg_toggle_name">мм рт.ст.</string>
+    <string name="pressure_hectopascal_toggle_name">гПа</string>
+    <string name="about_application">О приложении</string>
+    <string name="version_app_and_version_build">Версия %s Сборка %s</string>
+    <string name="description_meteodata_source">Метеорологические данные получены с сервиса <a href="https://openweathermap.org/api">OpenWeatherMap</a>.</string>
+</resources>
